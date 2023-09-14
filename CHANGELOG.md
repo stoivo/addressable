@@ -1,3 +1,10 @@
+# Addressable 2.1.10
+- Demo 1
+
+# Addressable 2.11.0
+- Demo 2
+
+
 # Addressable 2.8.5
 - Fix thread safety issue with encoding tables ([#515])
 - Define URI::NONE as a module to avoid serialization issues ([#509])
