@@ -11,7 +11,8 @@ With gsub(".", "_")
 # Addressable 2.11.0 <a name="minus-addressable-v2-11-0">
 - Demo 2
 
-- ## Oppsummering API endepunkt <a name="table-of-requests">
+## Oppsummering API endepunkt <a name="table-of-requests"></a>
+## Ping tjeneste <a name="ping"></a> [[back up]](#user-content-table-of-requests)
 
 
 
