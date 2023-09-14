@@ -1,8 +1,16 @@
-# Addressable 2.1.10
+# Addressable 2.1.10 <a name="addressable-v2.1.10">
 - Demo 1
 
-# Addressable 2.11.0
+# Addressable 2.11.0 <a name="addressable-v2.11.0">
 - Demo 2
+
+With gsub(".", "_")
+# Addressable 2.1.10 <a name="minus-addressable-v2-1-10">
+- Demo 1
+
+# Addressable 2.11.0 <a name="minus-addressable-v2-11-0">
+- Demo 2
+
 
 
 # Addressable 2.8.5
