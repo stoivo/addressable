@@ -1,17 +1,42 @@
-# original
-## Addressable 2.1.10 
-## Addressable 2.11.0
-
 # with a name
-## Addressable 2.1.10 <a name="addressable-v2.1.10">
-## Addressable 2.11.0 <a name="addressable-v2.11.0">
+Lets test
 
-# with a nameWith gsub(".", "_")
-## Addressable 2.1.10 <a name="minus-addressable-v2-1-10">
-## Addressable 2.11.0 <a name="minus-addressable-v2-11-0">
+# Addressable 3.1.10
+- Fix thread safety issue with encoding tables ([#515])
+- Define URI::NONE as a module to avoid serialization issues ([#509])
+- Fix YAML serialization ([#508])
 
-## Oppsummering API endepunkt <a name="table-of-requests"></a>
-## Ping tjeneste <a name="ping"></a> [[back up]](#user-content-table-of-requests)
+[#508]: https://github.com/sporkmonger/addressable/pull/508
+[#509]: https://github.com/sporkmonger/addressable/pull/509
+[#515]: https://github.com/sporkmonger/addressable/pull/515
+
+# Addressable 3.11.0
+- Fix thread safety issue with encoding tables ([#515])
+- Define URI::NONE as a module to avoid serialization issues ([#509])
+- Fix YAML serialization ([#508])
+
+[#508]: https://github.com/sporkmonger/addressable/pull/508
+[#509]: https://github.com/sporkmonger/addressable/pull/509
+[#515]: https://github.com/sporkmonger/addressable/pull/515
+
+
+# Addressable 2.1.10 <a name="v2.1.10">
+- Fix thread safety issue with encoding tables ([#515])
+- Define URI::NONE as a module to avoid serialization issues ([#509])
+- Fix YAML serialization ([#508])
+
+[#508]: https://github.com/sporkmonger/addressable/pull/508
+[#509]: https://github.com/sporkmonger/addressable/pull/509
+[#515]: https://github.com/sporkmonger/addressable/pull/515
+
+# Addressable 2.11.0 <a name="v2.11.0">
+- Fix thread safety issue with encoding tables ([#515])
+- Define URI::NONE as a module to avoid serialization issues ([#509])
+- Fix YAML serialization ([#508])
+
+[#508]: https://github.com/sporkmonger/addressable/pull/508
+[#509]: https://github.com/sporkmonger/addressable/pull/509
+[#515]: https://github.com/sporkmonger/addressable/pull/515
 
 
 # Addressable 2.8.5
